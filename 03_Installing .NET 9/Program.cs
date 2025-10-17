@@ -4,11 +4,7 @@
  Before building your first ASP.NET Core 9 application,
  you need to install the .NET 9 SDK and set up your development environment.
 
- This guide walks you through:
- - Installing the .NET 9 SDK
- - Setting up Visual Studio or Visual Studio Code
- - Verifying the installation
- - Creating your first project
+
  --------------------------------------------------------
  Step 1: Install the .NET 9 SDK
  --------------------------------------------------------
