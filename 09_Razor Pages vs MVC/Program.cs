@@ -122,12 +122,12 @@ namespace RazorPagesExample.Pages
 /*
   SUMMARY:
   ----------
-  ✅ Use MVC when:
+ Use MVC when:
      - Building large or enterprise-level applications
      - You need clear separation of concerns (Model, View, Controller)
      - You plan to manage multiple views and complex routing
 
-  ✅ Use Razor Pages when:
+  Use Razor Pages when:
      - You’re building smaller or page-focused applications
      - You prefer a simpler, file-based structure
      - You want minimal setup and faster development
